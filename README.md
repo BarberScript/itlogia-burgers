@@ -1,2 +1,1 @@
-# itlogia-burgers
-itLogia Burgers Landing Page
+itLogia Burger Project
